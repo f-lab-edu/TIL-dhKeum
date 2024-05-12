@@ -11,6 +11,8 @@
 * [03.JavaScript 비동기 처리, 콜백 함수](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/03.JavaScriptAsynchronous_and_callback.md)
 * [04.JavaScript Promise](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/04.JavaScriptPromise.md)
 * [05.JavaScript async/await](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/05.JavaScriptAsyncAwait.md)
+* [06.JavaScript async/await](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/06.JavaScriptScope.md)
+* [07.JavaScript async/await](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/07.JavaScriptScopeChain.md)
 
 ### CS(Computer Science)
 * [01.동기/비동기, 블로킹/논블로킹](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/CS/01.sync%2Casync%2Cblocking%2Cnon-blocking.md)
