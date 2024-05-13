@@ -12,7 +12,7 @@
 * [04.JavaScript Promise](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/04.JavaScriptPromise.md)
 * [05.JavaScript async/await](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/05.JavaScriptAsyncAwait.md)
 * [06.JavaScript Scope](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/06.JavaScriptScope.md)
-* [07.JavaScript Scope Chain, 실행 Context, Lexical 환경](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/07.JavaScriptScopeChain.md)
+* [07.JavaScript Scope Chain, 실행 Context, Lexical 환경](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/JavaScript/07.JavaScriptScopeChain.md)
 
 ### CS(Computer Science)
 * [01.동기/비동기, 블로킹/논블로킹](https://github.com/f-lab-edu/TIL-dhKeum/blob/main/CS/01.sync%2Casync%2Cblocking%2Cnon-blocking.md)
